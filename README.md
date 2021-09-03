@@ -1,6 +1,10 @@
 # mks_ex_grpc_client
 
-An exmple gRPC Fluter client for example protocol buffers project.
+An example gRPC Flutter client for example protocol buffers project.
+
+# detail
+# detail
+[This is a example for gRPC communication between Flutter and Java Spring backend.](https://blog.mukei-soft.co.jp/programming/2021/08/27/124/)
 
 ## Getting Started
 
